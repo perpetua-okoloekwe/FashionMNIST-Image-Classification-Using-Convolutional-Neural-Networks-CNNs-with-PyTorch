@@ -246,7 +246,7 @@ This confirms that the FashionMNIST training dataset is perfectly balanced and p
 
 The following sample images were inspected during the EDA process:
 
-![FashionMNIST Samples](images/sample_fashionmnist.png)
+![FashionMNIST Samples](Images/sample_fashionmnist.png)
 ---
 
 ## Visual Inspection Findings
